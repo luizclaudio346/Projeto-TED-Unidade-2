@@ -1,9 +1,10 @@
 # Projeto-TED-Unidade-2
-Sistema de gerenciamento de um serviço de streaming de vídeo feito em grupo
 
-Integrantes do Grupo:
+O projeto é um sistema de gerenciamento de serviços de streaming de vídeo, que foi desenvolvido em Java por um grupo de quatro integrantes
 
-Fernando Braz da Silveira
-Jayme Holanda Aguiar
-Murilo Kaspar Deininger Neto
-Luiz Claudio da Silva Aguir Filho
+# Integrantes do Grupo:
+
+- Fernando Braz da Silveira
+- Jayme Holanda Aguiar
+- Murilo Kaspar Deininger Neto
+- Luiz Claudio da Silva Aguir Filho
